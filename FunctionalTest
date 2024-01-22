@@ -13,4 +13,5 @@
 * When the user is in the CHECKOUT page the user can select buttons CONTINUE SHOPPING or CONTINUE CHECKING OUT
 * If the user selects CONTINUE SHOPPING button, they will be sent back to the HOMEPAGE
 * If the user is ready to checkout and selects the CHECKOUT BUTTON, they will be prompted to fill out the following information:
-First Name, Last Name, Phone Number, Email 
+** Contact Information: First Name, Last Name, Phone Number, Email 
+** Payment Information: Full Name on Card, Credit card number, Expiration Date (Format: MM/YY), CVV, Billing Zip Code

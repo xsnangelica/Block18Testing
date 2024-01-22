@@ -1,0 +1,4 @@
+* Take two arrays of integers as arguments, and expect to return a single array that only contains the odd numbers, in ascending order, from both of the arrays.
+* Prompt the user to enter a string or array of numbers.
+* Expect the input of numbers to be listed in ascending order, including the possibility of having inputs of negative numbers.
+* Expect the input of numbers to have duplicates listed while still in ascending order
