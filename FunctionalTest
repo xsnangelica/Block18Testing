@@ -1,0 +1,16 @@
+* When a user clicks "Log In" without filling in any information, they should be shown an error and prompted to sign up if they have not yet.
+* When a user clicks "Log In" but has filled out an incorrect login or password, they should be shown an error and prompted to sign up if they have not yet.
+* When a user clicks "Log In" and has filled in their login and password correctly, they should be taken to their dashboard.
+* When a user clicks "Create Account" without filling in any information, they should be shown an error.
+* When a user clicks "Create Account" with an invalid email address or password, they should be shown an error.
+* When a user clicks the "Sign Up with FoodieMart" button, they should be taken through the Google authentication process.
+* When a user clicks "Log In with FoodieMart", they should be logged in through FoodieMart, or taken through the FoodieMart authentication process if they do not already have an account or promted to CONTINUE AS A GUEST.
+* When the user logs in, they will be directed to the store home page where they can add items and search into their cart.
+* When the user selects an item it will be added to their cart.
+* If the user wants to increase the quantity of the item they can adjust the count using the + or - button.
+* When the user selects the menu button, they can search the website by category or type in the search bar to filter items and products in the store.
+* Once the user is done adding items to their cart, the user can head to the CHECKOUT screen by selecting their cart or CHECKOUT button at the bottom of the screen.
+* When the user is in the CHECKOUT page the user can select buttons CONTINUE SHOPPING or CONTINUE CHECKING OUT
+* If the user selects CONTINUE SHOPPING button, they will be sent back to the HOMEPAGE
+* If the user is ready to checkout and selects the CHECKOUT BUTTON, they will be prompted to fill out the following information:
+First Name, Last Name, Phone Number, Email 
